@@ -1,0 +1,44 @@
+.card-container {
+  height: 400px;
+  width: 300px;
+  /* border: 2px solid red; */
+  margin: 30px;
+  background-color: #ffffff;
+  color: black;
+  font-family: "Roboto";
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+img {
+  width: 300px;
+  height: 225px;
+  border-radius: 10px;
+}
+.house-details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.heading {
+  margin-right: 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.elements-container {
+  display: flex;
+  justify-content: space-between;
+}
+.details-container {
+  padding: 20px;
+}
+.link {
+  text-decoration: none;
+}
+.paragraph {
+  font-size: 14px;
+  text-align: center;
+  align-self: center;
+  margin-top: 11px;
+  font-weight: 540;
+  font-family: "Roboto";
+}

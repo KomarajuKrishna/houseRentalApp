@@ -1,0 +1,13 @@
+.about-container {
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+}
+.about-image {
+  width: 400px;
+  height: 350px;
+}
+.images-container {
+  display: flex;
+  justify-content: space-around;
+}
